@@ -1,0 +1,148 @@
+{
+    "skills" :
+    [
+        { "id": 1,
+            "image":"",
+            "progressbar": ""
+        },
+        { "id":2 ,
+            "image":"",
+            "progressbar": ""
+        },
+        { "id": 3,
+                "image":"",
+                "progressbar": ""
+        },
+        { "id":4 ,
+                "image":"",
+                "progressbar": ""
+        },
+        { "id":5 ,
+                "image":"",
+                "progressbar": ""
+        },
+        { "id": 6,
+                "image":"",
+                "progressbar": ""
+        },
+        { "id":7 ,
+                "image":"",
+                "progressbar": ""
+        }
+    ],
+
+    "education" :
+    [ 
+        {"id" : 1,
+        "years": "2023-2024",
+        "where": "Life Chocies Academy",
+        "describe":"Bootcamp for Full stack web development"
+
+        },
+        {"id" : 2 ,
+        "years": "2020-2022",
+        "where": "Academic Institute of Excellence",
+        "describe":"NQF5: Systems Development"
+
+        }
+    ],
+
+    "experience" :
+    [ 
+         {"id" : 1,
+        "years":"2019-2022",
+        "where": "QEAC: Tutor",
+        "describe":"Assisting learners (Grades 1-10) with school work"
+
+        },
+        {"id" : 2 ,
+        "years": 2019,
+        "where": "3C Ministries: Volunteer",
+        "describe":"admin assistant and data capturer"
+
+        }
+    ],
+
+        "projects": 
+    [ 
+        {"id" : 1,
+        "name":"",
+        "image": "",
+        "describe":"",
+        "github": "",
+        "netlify":""
+        },
+        
+        {"id" : 2,
+        "name": "",
+        "image": "",
+        "describe":"",
+        "github": "",
+        "netlify":""
+        },
+
+        
+        {"id" :3 ,
+        "name":"",
+        "image": "",
+        "describe":"",
+        "github": "",
+        "netlify":""
+        },
+
+        
+        {"id" :4 ,
+        "name":"",
+        "image": "",
+        "describe":"",
+        "github": "",
+        "netlify":""
+        },
+
+        
+        {"id" : 5 ,
+        "name":"",
+        "image": "",
+        "describe":"",
+        "github": "",
+        "netlify":""
+        }
+  
+    ],
+
+    "testimonials" :
+    [
+        {"id" :1 ,
+        "name": "Siyamanga Zweli",
+        "who":" Class Representative",
+        "image": "https://i.postimg.cc/pTDFyCt1/C12-C2-Siyamanga-Zweni-2.jpg",
+        "describe":"Kgodisho is a highly thought intellectual, who enjoys helping around. She is always positive with great enthusiasm. She is always excited to take on new challenges. Her passion for technology shows in her work. She is incredibly motivated and has great communication and leadership skills. Any company would be lucky to have her on their team."
+        },
+        {"id" :2 ,
+        "name":"Amy Pieterse",
+        "who":"Classmate",
+        "image": "https://i.postimg.cc/mrkVntHg/C12-C2-Amy-Pieterse-2.jpg",
+        "describe":"Working with Kgodisho was a pleasure. Her ability to communicate complex ideas in a clear and concise manner made our collaboration seamless. She was always available to answer questions and offer suggestions. She has strong attention to detail and her passion for visually appealing websites was evident in every project she delivered. I would highly recommend Kgodisho to anyone in need of dedicated and hard-working web developer."
+        },
+        {"id" :3 ,
+        "name":"Abdul-Azeez Kemp",
+        "who":"Mentor/ Student Lecturer ",
+        "image": "https://media.licdn.com/dms/image/D4D03AQH5hr_jf_5exg/profile-displayphoto-shrink_800_800/0/1673344904236?e=2147483647&v=beta&t=Y5BlxHbPZWgYvlRLdg7CUjooAL1HIrkGTF6jqp682Ss",
+        "describe":"Kgodisho is an honorouable student and person, she interprets information very well and gets her point across clearly. She works well in a team and helps her peers to the best of her ability. She is kind , open -minded , creative and a problem-solver, she will be an asset to any company or field she works in."
+        },
+        {"id" :4 ,
+        "name":"Sibusiso Dyan",
+        "who":"Teammate",
+        "image": "",
+        "describe":"I have had the pleasure of working alongside Kgodisho during her time at Life Choices Academy. Kgodisho is a quick learner and has shown great determination in mastering the concepts covered in the program."
+        },
+        {"id" :5 ,
+        "name":"Taflynne Peterson",
+        "who":"Classmate",
+        "image": "https://i.postimg.cc/m2pmyL0N/IMG-20230507-WA0010.jpg",
+        "describe":""
+        }
+      
+    ]
+
+}
