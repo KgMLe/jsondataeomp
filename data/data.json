@@ -2,33 +2,36 @@
     "skills" :
     [
         { "id": 1,
-            "image":"",
-            "progressbar": ""
+            "skill":"HTML", 
+            "image":"https://i.postimg.cc/6pFSRQJn/136528.png",
+            "progressbar": "Intermediate"
         },
         { "id":2 ,
-            "image":"",
-            "progressbar": ""
+            "skill":"CSS",
+            "image":"https://i.postimg.cc/BbW7LYr3/136527.png",
+            "progressbar": "Intermediate"
         },
         { "id": 3,
-                "image":"",
-                "progressbar": ""
+                "skill":"Bootstrap",
+                "image":"https://i.postimg.cc/fWGP3pMr/image.png",
+                "progressbar": "Intermediate"
         },
         { "id":4 ,
-                "image":"",
-                "progressbar": ""
+                "skill":"JavaScript",
+                "image":"https://i.postimg.cc/rmvfrR2r/javascript_318-148758.png",
+                "progressbar": "Average"
         },
         { "id":5 ,
-                "image":"",
-                "progressbar": ""
+                "skill":"Vue JS",
+                "image":"https://i.postimg.cc/yYBFbCB9/Vue.png",
+                "progressbar": "Beginner"
         },
         { "id": 6,
-                "image":"",
-                "progressbar": ""
-        },
-        { "id":7 ,
-                "image":"",
-                "progressbar": ""
+                "skill":"Azure",
+                "image":"https://i.postimg.cc/DZbgnf4y/1200px-Microsoft_Azure.svg.png",
+                "progressbar": "AZ:900 Cetification"
         }
+        
     ],
 
     "education" :
@@ -68,7 +71,7 @@
         {"id" : 1,
         "name":"",
         "image": "",
-        "describe":"",
+        "describe":"My first ever portfolio",
         "github": "",
         "netlify":""
         },
@@ -76,16 +79,16 @@
         {"id" : 2,
         "name": "",
         "image": "",
-        "describe":"",
+        "describe":"Home Page for an interior decorating company",
         "github": "",
         "netlify":""
         },
 
         
         {"id" :3 ,
-        "name":"",
+        "name":"Calculator",
         "image": "",
-        "describe":"",
+        "describe":"A class work to create a calculator",
         "github": "",
         "netlify":""
         },
@@ -101,6 +104,14 @@
 
         
         {"id" : 5 ,
+        "name":"Optical",
+        "image": "",
+        "describe":"An ecommerce site for frames/eyewear",
+        "github": "",
+        "netlify":""
+        },
+
+        {"id" :4 ,
         "name":"",
         "image": "",
         "describe":"",
@@ -122,7 +133,7 @@
         "name":"Amy Pieterse",
         "who":"Classmate",
         "image": "https://i.postimg.cc/mrkVntHg/C12-C2-Amy-Pieterse-2.jpg",
-        "describe":"Working with Kgodisho was a pleasure. Her ability to communicate complex ideas in a clear and concise manner made our collaboration seamless. She was always available to answer questions and offer suggestions. She has strong attention to detail and her passion for visually appealing websites was evident in every project she delivered. I would highly recommend Kgodisho to anyone in need of dedicated and hard-working web developer."
+        "describe":"Working with Kgodisho was a pleasure. Her ability to communicate complex ideas in a clear and concise manner made our collaboration seamless. She was always available to answer questions and offer suggestions. She has strong attention to detail and her passion for visually appealing websites was evident in every project she delivered."
         },
         {"id" :3 ,
         "name":"Abdul-Azeez Kemp",
@@ -133,16 +144,22 @@
         {"id" :4 ,
         "name":"Sibusiso Dyan",
         "who":"Teammate",
-        "image": "",
-        "describe":"I have had the pleasure of working alongside Kgodisho during her time at Life Choices Academy. Kgodisho is a quick learner and has shown great determination in mastering the concepts covered in the program."
+        "image": "https://i.postimg.cc/DftmDHH7/IMG-20220815-WA0002.jpg",
+        "describe":"I have had the pleasure of working alongside Kgodisho during her time at Life Choices Academy. Kgodisho is great at problem solving and has shown great determination in mastering the concepts covered in the program."
         },
         {"id" :5 ,
         "name":"Taflynne Peterson",
         "who":"Classmate",
         "image": "https://i.postimg.cc/m2pmyL0N/IMG-20230507-WA0010.jpg",
+        "describe":"Kgodisho is always willing to help and I am glad I've worked with her on projects as se is thorough and enthusiastic with her work"
+        },
+        {"id" :6 ,
+        "name":"Joel Mukanya",
+        "who":"Lecturer",
+        "image": "https://i.postimg.cc/L6LFsbX4/image.jpg",
         "describe":""
         }
-      
+
     ]
 
 }
