@@ -30,6 +30,11 @@
                 "skill":"Azure",
                 "image":"https://i.postimg.cc/DZbgnf4y/1200px-Microsoft_Azure.svg.png",
                 "progressbar": "AZ:900 Cetification"
+        },
+        {
+            "id": 7,
+            "image":"https://i.postimg.cc/qR14jRdp/png-transparent-git-bash-hd-logo-thumbnail-removebg-preview.png",
+            "progressbar":"Intermediate"
         }
         
     ],
@@ -157,7 +162,7 @@
         "name":"Joel Mukanya",
         "who":"Lecturer",
         "image": "https://i.postimg.cc/L6LFsbX4/image.jpg",
-        "describe":""
+        "describe":"Kgodisho is very well-behaved, social, and dedicated; she enjoys working with her peers and works well on her project. She learned HTML, CSS, Bootstrap, and VueJS. She will learn more in the coming months."
         }
 
     ]
