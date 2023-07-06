@@ -3,38 +3,40 @@
     [
         { "id": 1,
             "skill":"HTML", 
-            "image":"https://i.postimg.cc/6pFSRQJn/136528.png",
-            "progressbar": "Intermediate"
+            "image":"https://i.postimg.cc/CLPY07nV/html5-balck-icon.png",
+            "progressbar": "Skilled"
         },
         { "id":2 ,
             "skill":"CSS",
-            "image":"https://i.postimg.cc/BbW7LYr3/136527.png",
-            "progressbar": "Intermediate"
+            "image":"https://i.postimg.cc/4xq9YJcB/82127.png",
+            "progressbar": "Skilled"
         },
         { "id": 3,
                 "skill":"Bootstrap",
-                "image":"https://i.postimg.cc/fWGP3pMr/image.png",
-                "progressbar": "Intermediate"
+                "image":"https://i.postimg.cc/BnR0LvCY/5968671.png",
+                "progressbar": "Skilled"
         },
         { "id":4 ,
                 "skill":"JavaScript",
-                "image":"https://i.postimg.cc/rmvfrR2r/javascript_318-148758.png",
-                "progressbar": "Average"
+                "image":"https://i.postimg.cc/W1K6ZBCb/288877.png",
+                "progressbar": "Intermediate"
         },
         { "id":5 ,
                 "skill":"Vue JS",
-                "image":"https://i.postimg.cc/yYBFbCB9/Vue.png",
+                "image":"https://i.postimg.cc/C5cZSYYC/vue-js-icon-188136.png",
                 "progressbar": "Beginner"
         },
         { "id": 6,
                 "skill":"Azure",
-                "image":"https://i.postimg.cc/DZbgnf4y/1200px-Microsoft_Azure.svg.png",
-                "progressbar": "AZ:900 Cetification"
+                "image":"https://i.postimg.cc/y6j3Fh9J/microsoft-azure-icon-135406.png",
+                "progressbar": "AZ-900 certificate",
+                "describe": "I have obtained a certification in Azure Fundamentals by writing the AZ-900 exam "
         },
         {
             "id": 7,
-            "image":"https://i.postimg.cc/qR14jRdp/png-transparent-git-bash-hd-logo-thumbnail-removebg-preview.png",
-            "progressbar":"Intermediate"
+            "skill":"Git",
+            "image":"https://i.postimg.cc/QN70hdBN/png-transparent-git-computer-icons-commit-version-control-60-text-sign-signage-removebg-preview.png",
+            "progressbar":"Skilled"
         }
         
     ],
@@ -60,13 +62,13 @@
          {"id" : 1,
         "years":"2019-2022",
         "where": "QEAC: Tutor",
-        "describe":"Assisting learners (Grades 1-10) with school work"
+        "describe":"Assisting learners (Grades 1-9) with school work"
 
         },
         {"id" : 2 ,
         "years": 2019,
         "where": "3C Ministries: Volunteer",
-        "describe":"admin assistant and data capturer"
+        "describe":"Admin assistant and data capturer"
 
         }
     ],
@@ -74,54 +76,54 @@
         "projects": 
     [ 
         {"id" : 1,
-        "name":"",
-        "image": "",
-        "describe":"My first ever portfolio",
-        "github": "",
-        "netlify":""
+        "name":"Kgodisho Portfolio",
+        "image": "https://i.postimg.cc/7Z9dxPLR/Screenshot-2023-07-06-102553.png",
+        "describe":"My first ever portfolio upon arrival at the coding academy",
+        "github": "https://github.com/KgMLe/BootstrapHome",
+        "netlify":"https://kgodishobootstrap.netlify.app/"
         },
         
         {"id" : 2,
-        "name": "",
-        "image": "",
-        "describe":"Home Page for an interior decorating company",
-        "github": "",
-        "netlify":""
+        "name": "Interior",
+        "image": "https://i.postimg.cc/hPq5TQzw/Screenshot-2023-07-06-101832.png",
+        "describe":"Landing Page for an interior decorating company with other possible components of the page",
+        "github": "https://github.com/KgMLe/Activity",
+        "netlify":"https://kgodishoactivity.netlify.app/"
         },
 
         
         {"id" :3 ,
         "name":"Calculator",
-        "image": "",
-        "describe":"A class work to create a calculator",
-        "github": "",
-        "netlify":""
+        "image": "https://i.postimg.cc/6qZFwd7V/Screenshot-2023-07-06-102856.png",
+        "describe":"Working calculator. Styling inspired by Samsung Galaxy",
+        "github": "https://github.com/KgMLe/JS_Calc",
+        "netlify":"https://jscalckgmle.netlify.app/"
         },
 
         
         {"id" :4 ,
-        "name":"",
-        "image": "",
-        "describe":"",
-        "github": "",
-        "netlify":""
+        "name":"BMI Calculator",
+        "image": "https://i.postimg.cc/pT43g0dX/Screenshot-2023-07-06-103953.png",
+        "describe":"BMI Calculator that calculates your BMI and alerts you of your index",
+        "github": "https://github.com/KgMLe/JS_BMICalc",
+        "netlify":"https://kgmlejsbmi.netlify.app/"
         },
 
         
         {"id" : 5 ,
-        "name":"Optical",
-        "image": "",
-        "describe":"An ecommerce site for frames/eyewear",
-        "github": "",
-        "netlify":""
+        "name":"Specs",
+        "image": "https://i.postimg.cc/PJ1V0Tc2/Screenshot-2023-07-06-111509.png",
+        "describe":"Javascript End of Module: A CRUD ecommerce site for frames/eyewear",
+        "github": "https://github.com/KgMLe/JS_EOMP",
+        "netlify":"https://jseomp.netlify.app/"
         },
 
-        {"id" :4 ,
-        "name":"",
-        "image": "",
-        "describe":"",
-        "github": "",
-        "netlify":""
+        {"id" :6 ,
+        "name":"Electricity Calculator",
+        "image": "https://i.postimg.cc/zGTZKvhB/Screenshot-2023-07-06-133930.png",
+        "describe":"This calculator takes input from the user and calculates the electricity usage including VAT",
+        "github": "https://github.com/KgMLe/Electricity-Calc",
+        "netlify":"https://eleccalc.netlify.app/"
         }
   
     ],
@@ -156,7 +158,7 @@
         "name":"Taflynne Peterson",
         "who":"Classmate",
         "image": "https://i.postimg.cc/m2pmyL0N/IMG-20230507-WA0010.jpg",
-        "describe":"Kgodisho is always willing to help and I am glad I've worked with her on projects as se is thorough and enthusiastic with her work"
+        "describe":"Kgodisho is always willing to help and I am glad I've worked with her on projects as she is thorough and enthusiastic with her work"
         },
         {"id" :6 ,
         "name":"Joel Mukanya",
