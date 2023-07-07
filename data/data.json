@@ -35,8 +35,8 @@
         { "id": 6,
                 "skill":"Azure",
                 "image":"https://i.postimg.cc/y6j3Fh9J/microsoft-azure-icon-135406.png",
-                "progressbar": "Azure Fundamentals Certified https://drive.google.com/file/d/1y507GmAdtUJeTub43ek0EKek9SCf5vC4/view?usp=sharing",
-                "describe": "I passed the AZ-900 test to become certified in Azure Fundamentals so that I could learn everything there is to know about the rapidly expanding field of cloud computing."
+                "progressbar": "Azure Fundamentals Certified",
+                "describe": "I passed the AZ-900 test to become certified in Azure Fundamentals so that I could learn everything there is to know about the fast growing field of cloud computing."
         },
         {
             "id": 7,
@@ -50,7 +50,7 @@
             "skill":"SQL",
             "image":"https://i.postimg.cc/DyP35YmQ/4299956.png",
             "progressbar" : "Beginner",
-            "describe": "I have learnt about database fundamentals but the use of mySQL by storing and retrieving data by the use of queries"
+            "describe": "I have learnt about database fundamentals through mySQL by storing and retrieving data by the use of queries"
         }
 
     ],
