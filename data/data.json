@@ -4,41 +4,55 @@
         { "id": 1,
             "skill":"HTML", 
             "image":"https://i.postimg.cc/CLPY07nV/html5-balck-icon.png",
-            "progressbar": "Skilled"
+            "progressbar": "Skilled",
+            "describe":"I have used HTML to produce structured and readable web pages (as seen throughout this page), through the grasp of the essential components, tags, and attributes needed to lay the groundwork for my web development projects."
         },
         { "id":2 ,
             "skill":"CSS",
             "image":"https://i.postimg.cc/4xq9YJcB/82127.png",
-            "progressbar": "Skilled"
+            "progressbar": "Skilled",
+            "describe":"User experience and interface are things I take great account for therefore I countinously learn using CSS to improve the appearance and organization of web pages as I have been throughout my web development journey."
         },
         { "id": 3,
                 "skill":"Bootstrap",
                 "image":"https://i.postimg.cc/BnR0LvCY/5968671.png",
-                "progressbar": "Skilled"
+                "progressbar": "Skilled",
+                "describe": "I am able to utilize Bootstrap framework to develop responsive and mobile-first websites, leveraging its pre-built components and grid system to streamline the process of designing and styling web pages."
         },
         { "id":4 ,
                 "skill":"JavaScript",
                 "image":"https://i.postimg.cc/W1K6ZBCb/288877.png",
-                "progressbar": "Intermediate"
+                "progressbar": "Skilled",
+                "describe": "Experienced in writing JavaScript code to add interactivity and dynamic functionality to websites, employing concepts such as variables, functions, event handling, and DOM manipulation to create engaging user experiences."
         },
         { "id":5 ,
                 "skill":"Vue JS",
                 "image":"https://i.postimg.cc/C5cZSYYC/vue-js-icon-188136.png",
-                "progressbar": "Beginner"
+                "progressbar": "Beginner",
+                "describe":"I have recently started learning how to design interactive and scalable online applications with the help of the Vue.js framework"
+
         },
         { "id": 6,
                 "skill":"Azure",
                 "image":"https://i.postimg.cc/y6j3Fh9J/microsoft-azure-icon-135406.png",
-                "progressbar": "AZ-900 certificate",
-                "describe": "I have obtained a certification in Azure Fundamentals by writing the AZ-900 exam "
+                "progressbar": "Azure Fundamentals Certified https://drive.google.com/file/d/1y507GmAdtUJeTub43ek0EKek9SCf5vC4/view?usp=sharing",
+                "describe": "I passed the AZ-900 test to become certified in Azure Fundamentals so that I could learn everything there is to know about the rapidly expanding field of cloud computing."
         },
         {
             "id": 7,
             "skill":"Git",
             "image":"https://i.postimg.cc/QN70hdBN/png-transparent-git-computer-icons-commit-version-control-60-text-sign-signage-removebg-preview.png",
-            "progressbar":"Skilled"
+            "progressbar":"Skilled",
+            "describe": "Experienced in using the Git version control system to manage and track changes in codebase. This includes establishing branches, committing changes, merging code, and working with other developers."
+        },
+        {
+            "id": 8,
+            "skill":"SQL",
+            "image":"https://i.postimg.cc/DyP35YmQ/4299956.png",
+            "progressbar" : "Beginner",
+            "describe": "I have learnt about database fundamentals but the use of mySQL by storing and retrieving data by the use of queries"
         }
-        
+
     ],
 
     "education" :
