@@ -58,7 +58,7 @@
     "education" :
     [ 
         {"id" : 1,
-        "years": "2023-2024",
+        "years": "2023",
         "where": "Life Chocies Academy",
         "describe":"Bootcamp for Full stack web development"
 
@@ -72,8 +72,13 @@
     ],
 
     "experience" :
-    [ 
-         {"id" : 1,
+    [   {"id" : 1,
+        "years":"2023 Oct - Present",
+        "where": "LC Studios: Intern",
+        "describe":"Upskilling in Cisco badges and AWS"
+
+        },
+         {"id" : 2,
         "years":"2019-2022",
         "where": "QEAC: Tutor",
         "describe":"Assisting learners (Grades 1-9) with school work"
@@ -99,10 +104,10 @@
         
         {"id" : 2,
         "name": "Interior",
-        "image": "https://i.postimg.cc/hPq5TQzw/Screenshot-2023-07-06-101832.png",
-        "describe":"Landing Page for an interior decorating company with other possible components of the page",
-        "github": "https://github.com/KgMLe/Activity",
-        "netlify":"https://kgodishoactivity.netlify.app/"
+        "image": "https://i.postimg.cc/6qFJm3nv/Screenshot-2023-10-26-151444.png",
+        "describe":"A 'mock' e-commerce site for apparel with login/register featues. This was my capston project at Life Choices academy",
+        "github": "https://github.com/KgMLe/CAPSTONE",
+        "netlify":"https://anchored-life.web.app/"
         },
 
         
@@ -159,7 +164,7 @@
         {"id" :3 ,
         "name":"Abdul-Azeez Kemp",
         "who":"Mentor/ Student Lecturer ",
-        "image": "https://media.licdn.com/dms/image/D4D03AQH5hr_jf_5exg/profile-displayphoto-shrink_800_800/0/1673344904236?e=2147483647&v=beta&t=Y5BlxHbPZWgYvlRLdg7CUjooAL1HIrkGTF6jqp682Ss",
+        "image": "https://i.postimg.cc/g00pjfzr/Screenshot-2023-10-26-151713.png",
         "describe":"Kgodisho is an honorouable student and person, she interprets information very well and gets her point across clearly. She works well in a team and helps her peers to the best of her ability. She is kind , open -minded , creative and a problem-solver, she will be an asset to any company or field she works in."
         },
         {"id" :4 ,
