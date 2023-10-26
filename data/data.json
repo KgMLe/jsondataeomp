@@ -103,7 +103,7 @@
         },
         
         {"id" : 2,
-        "name": "Interior",
+        "name": "Anchhored",
         "image": "https://i.postimg.cc/6qFJm3nv/Screenshot-2023-10-26-151444.png",
         "describe":"A 'mock' e-commerce site for apparel with login/register featues. This was my capston project at Life Choices academy",
         "github": "https://github.com/KgMLe/CAPSTONE",
@@ -152,8 +152,8 @@
         {"id" :1 ,
         "name": "Siyamanga Zweli",
         "who":" Class Representative",
-        "image": "https://i.postimg.cc/pTDFyCt1/C12-C2-Siyamanga-Zweni-2.jpg",
-        "describe":"Kgodisho is a highly thought intellectual, who enjoys helping around. She is always positive with great enthusiasm. She is always excited to take on new challenges. Her passion for technology shows in her work. She is incredibly motivated and has great communication and leadership skills. Any company would be lucky to have her on their team."
+        "image": "https://i.postimg.cc/zv3R3GT1/Screenshot-2023-10-26-152616.png",
+        "describe":"Kgodisho is a highly thought intellectual, who enjoys helping around. She is always positive with great enthusiasm. She is always excited to take on new challenges. Her passion for technology shows in her work. She is incredibly motivated and has great communication and leadership skills."
         },
         {"id" :2 ,
         "name":"Amy Pieterse",
@@ -170,7 +170,7 @@
         {"id" :4 ,
         "name":"Sibusiso Dyan",
         "who":"Teammate",
-        "image": "https://i.postimg.cc/DftmDHH7/IMG-20220815-WA0002.jpg",
+        "image": "https://i.postimg.cc/Y0rzBffc/Screenshot-2023-10-26-151947.png",
         "describe":"I have had the pleasure of working alongside Kgodisho during her time at Life Choices Academy. Kgodisho is great at problem solving and has shown great determination in mastering the concepts covered in the program."
         },
         {"id" :5 ,
