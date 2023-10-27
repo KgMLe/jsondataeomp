@@ -158,7 +158,7 @@
         {"id" :2 ,
         "name":"Amy Pieterse",
         "who":"Classmate",
-        "image": "https://i.postimg.cc/mrkVntHg/C12-C2-Amy-Pieterse-2.jpg",
+        "image": "https://i.postimg.cc/HLqpbsGg/Screenshot-2023-10-26-152952.png",
         "describe":"Working with Kgodisho was a pleasure. Her ability to communicate complex ideas in a clear and concise manner made our collaboration seamless. She was always available to answer questions and offer suggestions. She has strong attention to detail and her passion for visually appealing websites was evident in every project she delivered."
         },
         {"id" :3 ,
@@ -170,7 +170,7 @@
         {"id" :4 ,
         "name":"Sibusiso Dyan",
         "who":"Teammate",
-        "image": "https://i.postimg.cc/Y0rzBffc/Screenshot-2023-10-26-151947.png",
+        "image": "https://i.postimg.cc/QtbS7mVZ/Screenshot-2023-10-26-154720.png",
         "describe":"I have had the pleasure of working alongside Kgodisho during her time at Life Choices Academy. Kgodisho is great at problem solving and has shown great determination in mastering the concepts covered in the program."
         },
         {"id" :5 ,
@@ -183,7 +183,7 @@
         "name":"Joel Mukanya",
         "who":"Lecturer",
         "image": "https://i.postimg.cc/L6LFsbX4/image.jpg",
-        "describe":"Kgodisho is very well-behaved, social, and dedicated; she enjoys working with her peers and works well on her project. She learned HTML, CSS, Bootstrap, and VueJS. She will learn more in the coming months."
+        "describe":"Kgodisho is very well-behaved, social, and dedicated; she enjoys working with her peers and works well on her project. She learned HTML, CSS, Bootstrap, JavaScript and VueJS. She will learn more in the coming months."
         }
 
     ]
